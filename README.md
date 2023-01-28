@@ -19,6 +19,9 @@ Link-> [Nish's Saturday Zoom Session](https://mohawkcollege.zoom.us/j/9522737795
 # To know more about PASS
 To learn more about PASS please visit Mohawk College's Official Website [Peer Assisted Study Sessions (PASS)](https://www.mohawkcollege.ca/learning-support-centre/peer-assisted-study-sessions-pass)
 
+## Join our Discord Server for PASS
+Link To PASS' Discord Server-> [Peer Assisted Study Sessions(PASS)-Discord Server](https://discord.gg/ewHD69kws)
+
 ## Developed Using 💻
 + [Python3](https://docs.python.org/)
 
