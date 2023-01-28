@@ -7,7 +7,7 @@ Link-> [Nish's Saturday Zoom Session](https://mohawkcollege.zoom.us/j/9522737795
 ![PASS Press Release Picture](./images/NishPass.png)
 
 # Topics to Cover
-- [ ] 0. Python Object and Data Structure Basics (Python Expressions, Numbers, Variable Assignments, Strings, Print Formatting with Strings, Input/Output, Lists introduction, EXTRAS- Lists, Dictionaries, Tuples)
+- [ ] 0. Python Object and Data Structure Basics (Python Expressions, Numbers, Variable Assignments, Strings, Input/Output, Print Formatting with Strings, Lists introduction, EXTRAS- Lists, Dictionaries, Tuples)
 - [ ] 1. Comparison Operators, Boolean and Conditional Logic- if, elif and else statements
 - [ ] 2. Logic With Repetition- for loops, while loops
 - [ ] 3. Modular Programming- Methods and Functions
