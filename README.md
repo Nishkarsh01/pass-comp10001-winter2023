@@ -6,6 +6,16 @@ Link-> [Nish's Saturday Zoom Session](https://mohawkcollege.zoom.us/j/9522737795
 <br><br>
 ![PASS Press Release Picture](./images/NishPass.png)
 
+# Topics to Cover
+- [ ] 0. Python Object and Data Structure Basics (Python Expressions, Numbers, Variable Assignments, Strings, Print Formatting with Strings, Input/Output, Lists introduction, EXTRAS- Lists, Dictionaries, Tuples)
+- [ ] 1. Comparison Operators, Boolean and Conditional Logic- if, elif and else statements
+- [ ] 2. Logic With Repetition- for loops, while loops
+- [ ] 3. Modular Programming- Methods and Functions
+- [ ] 4. Lists of Data
+- [ ] 5. String Operations
+- [ ] 6. Testing Assumptions and Data Validation (introduction)
+- [ ] 7. Capstone Project
+
 # To know more about PASS
 To learn more about PASS please visit Mohawk College's Official Website [Peer Assisted Study Sessions (PASS)](https://www.mohawkcollege.ca/learning-support-centre/peer-assisted-study-sessions-pass)
 
