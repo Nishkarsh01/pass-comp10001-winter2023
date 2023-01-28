@@ -2,7 +2,8 @@
 Every Saturday there is a PASS session organized by me for COMP 10001 students with the focus on helping you understand the basics of python programming language. Throughout this semester during these sessions, we will put our knowledge to test by developing some projects; projects that will also help you build your portfolio.
 
 # Zoom Link to join the session:
-[Nish's Saturday Zoom Session](https://mohawkcollege.zoom.us/j/95227377950?pwd=K29zTUFXNEZHSVVJS0QweE1LVWF2Zz09)  <br>
+[Nish's Saturday Zoom Session](https://mohawkcollege.zoom.us/j/95227377950?pwd=K29zTUFXNEZHSVVJS0QweE1LVWF2Zz09)  
+<br><br>
 ![PASS Press Release Picture](./images/NishPass.png)
 
 # To know more about PASS
